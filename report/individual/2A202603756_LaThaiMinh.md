@@ -1,4 +1,4 @@
-# Báo cáo cá nhân — MSSV_HoTen
+# Báo cáo cá nhân — 2A202603756_LaThaiMinh
 
 > Đổi tên file theo quy tắc `MSSV_HoTen.md`, ví dụ `20241234_NguyenVanAn.md` (MSSV trước, dấu `_`, họ tên viết liền không dấu). Sửa cả dòng tiêu đề phía trên cho khớp.
 > Template chi tiết và prompt mẫu cho từng mục: [docs/01-worksheet.md](../../docs/01-worksheet.md).
@@ -9,7 +9,7 @@
 - Họ tên: Lã Thái Minh
 - MSSV: 2A202603756
 - Email trường (không bắt buộc, repo có thể để public): 
-- Tên nhóm: Nhóm G1
+- Tên nhóm: Nhóm G3
 - Link repo nhóm: https://github.com/lqkhanhno/K5-L3B-DAY02-G1-DiscoveryProblemFraming
 
 ---
@@ -157,16 +157,16 @@ Quy trình nháp hiện tại:
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Tôi chọn Card #1 vì đây là chuyện tôi phải tự xử lý vào cuối tháng: nhận bill trọ, tìm lại khoản đã ứng, rồi phân loại món chung và món riêng. Trong sáu bước, chỉ riêng tìm bill và phân loại đã mất khoảng 50 phút. | Điểm tôi muốn nhóm thử bác bỏ là: vấn đề nằm ở tính toán hay ở cách hai người ghi nhận khoản chi trong tháng? |
+| Phản biện bài của bạn khác | Với Card #3 của Khoa, câu tôi muốn hỏi là: “Nếu văn bản mới là bản scan khó đọc, AI có chỉ đúng điều/khoản và trang gốc để giáo viên tự kiểm không?” Tôi cũng muốn hỏi nhóm lấy bản cũ đang có hiệu lực ở đâu để đối chiếu. | Hai câu hỏi nhắm vào độ tin cậy của nguồn và bước kiểm tra, thay vì chỉ hỏi AI tóm tắt nhanh đến đâu. Đây là câu hỏi mô phỏng, cần thay bằng câu tôi thực sự đã đặt. |
+| Nhận phản biện | Chưa có ghi chép câu hỏi thành viên khác đặt cho Card #1 tôi pitch. | Không thể dùng phản biện của AI ở mục 3 thay cho câu hỏi của bạn cùng nhóm; cần bổ sung từ buổi pitch thật. |
+| Gom cluster / cây OST | Tôi sẽ đặt pain của Card #3 ở nhánh “giáo viên mất thời gian lọc, so sánh văn bản mới với quy định cũ để biết phải đổi gì trong môn và khối đang dạy”. Các candidate khác giữ ở nhánh riêng. | Outcome cần hướng tới việc xác định đúng việc phải làm kịp thời; “LLM tóm tắt PDF” chỉ là một phương án, không phải opportunity. |
+| Chọn candidate problem | Nhóm chọn Card #3 của Khoa. Card tiền trọ của tôi là đề xuất cá nhân ở vòng pitch; nhóm chuyển sang bài toán văn bản vì một thay đổi có thể ảnh hưởng nhiều giáo viên và ma trận đề, kế hoạch bài dạy. | Vai trò cụ thể của tôi khi nhóm chấm điểm và chốt candidate cần bổ sung từ ghi chép thật; không suy ra chỉ từ việc nhóm chọn card này. |
+| Kiểm chứng / research | Tôi đề xuất hỏi giáo viên về lần gần nhất nhận công văn mới: mất bao lâu để tìm điều liên quan đến môn/khối, phải hỏi lại tổ trưởng mấy lần, và đã sửa tài liệu nào. Khi research, cần đối chiếu trực tiếp văn bản gốc và bản cũ còn hiệu lực. | Đây là **kế hoạch kiểm chứng**, chưa phải kết quả phỏng vấn hoặc research. Nếu người được hỏi chỉ chờ bản tóm tắt chính thức của tổ, cách giải có thể là quy trình chia việc trong tổ thay vì AI. |
+| Quy trình nhóm | Tôi có thể giúp vẽ lại bảy bước trong Card #3: nhận PDF, đọc, lọc phần liên quan, đối chiếu bản cũ, hỏi tổ trưởng, xác định việc phải làm, cập nhật ma trận đề hoặc kế hoạch dạy. | Hai điểm nghẽn khác nhau cần tách: bước lọc/đối chiếu ước tính 30–60 phút mỗi văn bản và thời gian chờ họp tổ có thể tính bằng ngày. |
+| Problem Statement | Tôi đề xuất nêu rõ actor là giáo viên bộ môn và tổ trưởng chuyên môn; đầu vào phải là văn bản mới, văn bản cũ và môn/khối đang dạy. | Metric nên đo thời gian từ lúc nhận văn bản đến lúc biết việc cần làm, số lần hỏi lại và lỗi áp dụng bị phát hiện. Boundary: không coi tóm tắt AI là kết luận chính thức nếu chưa kiểm điều/khoản gốc và được người có trách nhiệm duyệt. |
+| Mức can thiệp AI | Tôi muốn so phương án tổ trưởng phân công một người viết tóm tắt theo mẫu với Workflow: AI gợi ý điều khoản liên quan và điểm khác so với bản cũ, kèm vị trí nguồn để người đọc kiểm. | AI không tự quyết văn bản áp dụng thế nào hoặc tự sửa ma trận đề. Nếu bản scan làm mất chữ hay trích dẫn không khớp, phải quay lại đọc bản gốc. |
+| Quyết định | Tôi đề xuất thử trên một vài văn bản đã được tổ trưởng giải thích trước đó, xem AI có tìm đủ điều khoản, chỉ đúng nguồn và bỏ sót điểm thay đổi nào không. | **Quyết định Go / Not Yet / No-Go của nhóm chưa được ghi trong repo.** Cần điền đúng kết luận thực tế sau khi đánh giá chất lượng đầu ra và bốn rủi ro. |
 
 ---
 
@@ -174,12 +174,13 @@ Quy trình nháp hiện tại:
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | | | | |
-| CP2 Problem Card | | | | |
-| CP4 Research | | | | |
-| CP5 Quy trình | | | | |
-| CP5–6 Problem Statement | | | | |
-| CP6 Mức can thiệp / quyết định | | | | |
+| CP1 Scan | Chưa ghi nhận có dùng AI; tôi đã tự liệt kê 5 vấn đề từ trải nghiệm ở trọ và trong gia đình. | Chưa áp dụng. | Chưa áp dụng. | Chưa áp dụng. Nếu có hỏi AI sau khi tự scan, cần ghi rõ prompt, ý giữ và ý bỏ. |
+| CP2 Problem Card | Nhờ AI phản biện Card #1 về đối soát chi phí. | Chỉ ra bottleneck cần gắn với bước 2–3, phép cộng trừ là Rule, và hóa đơn không tự cho biết món chung hay riêng. | Nếu để AI tự phân loại món chung/riêng thì dễ đoán sai vì thiếu ngữ cảnh của hai người. | Tôi tách rõ bước tìm bill (35 phút) và lọc khoản chi (15 phút), để Rule tính số dư và yêu cầu con người xác nhận khoản chung/riêng trước khi chốt. |
+| CP4 Research | AI hỗ trợ lập bảng so sánh cách tóm tắt thủ công, Gemini Notebook và Adobe Acrobat ở báo cáo nhóm mục 3.3. | Gợi ý đối chiếu công cụ có sẵn theo từng bước trong quy trình, kèm link tài liệu sản phẩm. | Tài liệu sản phẩm không chứng minh công cụ đã hoạt động tốt với văn bản thật của nhóm. | Giữ kết luận là research sơ bộ; cần tự mở lại từng nguồn và thử trên cặp văn bản thật trước khi khẳng định hiệu quả. |
+| CP5 Quy trình | Chưa ghi nhận có dùng AI. | Chưa có dữ liệu. | Chưa có dữ liệu. | Bổ sung nếu thực tế đã dùng. |
+| CP5–6 Problem Statement | Chưa ghi nhận có dùng AI. | Chưa có dữ liệu. | Chưa có dữ liệu. | Bổ sung nếu thực tế đã dùng. |
+| CP6 Mức can thiệp / quyết định | Chưa ghi nhận có dùng AI. | Chưa có dữ liệu. | Chưa có dữ liệu. | Bổ sung nếu thực tế đã dùng. |
+| CP3/CP7 — bản nháp cần tự viết lại | AI đã hỗ trợ soạn mục 4 và các câu 6.1–6.6 trong quá trình chuẩn bị. | Gợi ra các điểm cần kiểm về Card #3 của Khoa. | Một số câu là mô phỏng hoặc dự định, không phản ánh hoạt động đã xảy ra của tôi. | Tôi cần thay phần mô phỏng bằng nhật ký tham gia và reflection do chính mình viết từ trải nghiệm thật trước khi nộp. |
 
 ---
 
@@ -187,22 +188,39 @@ Quy trình nháp hiện tại:
 
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
+> **Bản nháp cần tự viết lại trước khi nộp:** Các đoạn 6.1–6.6 dưới đây đã được AI hỗ trợ soạn và có nội dung mô phỏng. Chỉ giữ lại những ý đúng với trải nghiệm của mình, tự viết bằng lời của mình và thay các dự định bằng việc đã xảy ra; không dùng bản nháp này làm reflection cuối.
+
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
+
+Khi xem các card của nhóm, tôi thấy mỗi người bị kẹt ở một kiểu thông tin khác nhau: Khánh cần biết năng lực thực của thành viên, Huy cần nối log thực nghiệm với thay đổi trong code, còn tôi phải phân biệt khoản chi chung và riêng. Card #3 của Khoa khó ở chỗ khác: giáo viên nhận một văn bản dài nhưng chỉ vài điều liên quan đến môn và khối mình dạy; họ còn phải biết điều đó khác gì so với quy định cũ. Tôi hiểu vì sao nhóm chọn bài này: nếu mỗi giáo viên tự đọc và tự diễn giải, một lỗi hiểu sai có thể đi vào ma trận đề hoặc kế hoạch bài dạy. Tốc độ đọc quan trọng, nhưng tìm đúng điều khoản và thống nhất cách hiểu còn quan trọng hơn.
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
 
+Với Card #3 của Khoa, cách nghĩ solution-first sẽ là bảo AI tóm tắt cả file PDF rồi gửi cho giáo viên. Nhưng bản tóm tắt chung chưa trả lời được câu “điều nào áp dụng cho môn và khối của mình, từ khi nào, khác bản cũ ở đâu?”. Nếu PDF là bản scan mờ, AI còn có thể đọc sai số điều hoặc bỏ mất chữ “không”. Tôi muốn nhóm bắt đầu từ lần gần nhất giáo viên nhận một công văn mới: họ phải tìm những gì, hỏi ai, và chờ bao lâu mới sửa được tài liệu. Sau đó mới quyết định AI nên hỗ trợ bước lọc, đối chiếu hay không cần tham gia.
+
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
+
+Trong bản mô phỏng này, lúc đầu tôi nghĩ chỉ cần AI rút ra vài gạch đầu dòng “điểm mới của văn bản”. Khi xem kỹ quy trình Card #3, tôi đổi ý: giáo viên không thiếu một bản tóm tắt bất kỳ, mà cần biết điều gì ảnh hưởng đến chính môn, khối và tài liệu mình đang làm. Một bản tóm tắt nghe hợp lý nhưng dẫn sai điều khoản sẽ khiến việc kiểm lại còn lâu hơn tự đọc. Vì thế tôi sẽ yêu cầu mỗi điểm AI nêu phải kèm điều/khoản hoặc trang để đối chiếu, và tổ trưởng duyệt trước khi xem là hướng áp dụng.
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 
+Tôi chưa thấy snapshot phỏng vấn hoặc kết quả survey về Card #3 trong repo, nên không thể kể một phát hiện bất ngờ như thể nhóm đã kiểm chứng xong. Điều tôi muốn hỏi giáo viên là lần gần nhất có văn bản mới, họ tự đọc hay chờ tổ trưởng giải thích, và bước nào thực sự làm chậm việc sửa ma trận đề. Nếu phần lớn độ trễ là chờ một cuộc họp để thống nhất cách hiểu, AI đọc nhanh hơn 30 phút cũng chưa chắc rút ngắn được số ngày chờ. Ngược lại, nếu mọi người mất nhiều thời gian lặp lại cùng bước tìm điều khoản, bản ghi chú một trang dùng chung của tổ có thể đã giúp rất nhiều.
+
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
+
+Với bài nhóm, khó nhất là viết metric cho cả hai loại chậm: 30–60 phút lọc và đối chiếu một văn bản, rồi có thể chờ thêm vài ngày để cả tổ thống nhất. Nếu chỉ đo thời gian AI tạo bản tóm tắt, nhóm sẽ bỏ qua điều giáo viên thật sự cần: biết đúng việc phải làm và làm kịp. Tôi sẽ đo từ lúc nhận văn bản đến lúc giáo viên xác định được việc cần sửa, số lần phải hỏi lại tổ trưởng, và số lỗi áp dụng bị phát hiện khi duyệt đề hoặc kế hoạch. Boundary cũng phải rõ: AI chỉ gợi ý điểm liên quan kèm nguồn; tổ trưởng hoặc giáo viên kiểm điều khoản gốc và quyết định cách áp dụng.
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
+Nếu làm lại, tôi sẽ xin một văn bản mới và một bản cũ đã được tổ chuyên môn dùng thật để thử ngay bước đối chiếu, thay vì bàn chung về khả năng “đọc PDF” của LLM. Tôi sẽ kiểm từng gạch đầu dòng: có đúng môn/khối không, có ghi thời điểm áp dụng không, và số điều/khoản có dẫn về đúng trang không. Tôi cũng muốn phản biện nhóm mạnh hơn ở chỗ phân biệt “đọc xong văn bản” với “cả tổ đã thống nhất cách áp dụng”. Nếu nút thắt là chờ người duyệt, giải pháp cần đổi quy trình chuyển và duyệt thông tin, không chỉ tạo bản tóm tắt nhanh hơn.
+
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 
+Nhóm chọn Card #3 của Đoàn Đăng Khoa: khi có công văn hoặc thông tư mới, giáo viên cần biết nhanh điều nào ảnh hưởng đến môn và khối mình dạy để sửa ma trận đề, kế hoạch bài dạy hoặc cách đánh giá. Quy trình hiện tại gồm nhận văn bản, đọc, lọc phần liên quan, so với bản cũ, hỏi tổ trưởng, xác định việc cần làm rồi cập nhật tài liệu; bước lọc và đối chiếu ước tính mất 30–60 phút mỗi văn bản, còn chờ họp tổ có thể kéo dài vài ngày. Tôi sẽ đo thời gian từ lúc nhận văn bản đến lúc biết rõ việc cần làm, số lần giáo viên phải hỏi lại và số lỗi áp dụng được phát hiện khi duyệt tài liệu; mục tiêu trong card là xác định việc cần làm trong một buổi, giảm ít nhất 50% số lần hỏi lại và không có lỗi áp dụng sai. Boundary là AI không được tự kết luận cách áp dụng hay tự sửa tài liệu; mọi điểm thay đổi phải dẫn về điều/khoản/trang gốc và được giáo viên hoặc tổ trưởng kiểm lại. Mức can thiệp có thể là Workflow: AI lọc và đối chiếu văn bản để tạo bản nháp có trích dẫn, còn con người quyết định và phổ biến cách áp dụng, sau khi so với phương án một người trong tổ viết tóm tắt theo mẫu. **Quyết định Go / Not Yet / No-Go của nhóm chưa được ghi trong báo cáo chung**, nên tôi chưa thể nêu kết luận cuối như một sự thật; trước mắt cần thử với văn bản thật và kiểm độ chính xác của từng trích dẫn.
 ---
 
 ## 7. Tài liệu tham khảo
 
--
+- [Worksheet — hướng dẫn từng checkpoint](../../docs/01-worksheet.md): cấu trúc Job Story, Problem Card, kiểm chứng và Problem Statement.
+- [Checkpoints](../../CHECKPOINTS.md): yêu cầu và cách tự kiểm tra CP1–CP7.
+- [Rules](../../RULES.md): quy định sử dụng AI, phỏng vấn người thật và bảo vệ dữ liệu.
