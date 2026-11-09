@@ -54,3 +54,28 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 **Điều mình học được từ phần nhóm:**
 
 -
+
+### NguyenQuangHuy-2A202603768
+
+**Phần việc phụ trách:**
+
+- Người chính phụ trách CP5: phản biện các candidate ở bước hội tụ, phản biện Problem Statement v0 và mức can thiệp AI.
+- Phụ trách chính vẽ quy trình hiện tại & tương lai (CP5), lập bảng Before/After.
+- Phụ trách hỗ trợ viết Problem Statement (Success Metric, Boundary, Fallback) và đánh giá 4 rủi ro đưa ra quyết định.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+- CP5: Lập bảng quy trình hiện tại 7 bước (làm rõ bottleneck 30–60' ở bước 3–4); thiết kế quy trình tương lai 4 bước tinh gọn (Bước 1 Rule/OCR → Bước 2 AI đối chiếu → Bước 3 Tổ trưởng duyệt HITL → Bước 4 Giáo viên đọc & áp dụng); vẽ bảng Before/After.
+- CP5: Tham gia viết Problem Statement v0 và định hình thay đổi cho v1, thiết lập Boundary chặt chẽ cho AI.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- Mục 4 trong `report/team/group_report.md`: Sơ đồ quy trình hiện tại 7 bước, quy trình tương lai 4 bước và bảng đối chiếu Before/After.
+- Mục 5 trong `report/team/group_report.md`: Các trường Success Metric, Boundary, và các ý phản biện trong Problem Statement v0.
+- File ảnh sơ đồ quy trình: `report/assets/cp5-workflow-future.png`.
+- Báo cáo cá nhân: `report/individual/2A202603768_NguyenQuangHuy.md`.
+
+**Điều mình học được từ phần nhóm:**
+
+- Nhận ra sự khác biệt giữa bài toán cá nhân và bài toán tổ chức: bài toán của nhóm có tác động lớn hơn nhiều vì giải quyết điểm nghẽn cho cả tổ chuyên môn thay vì chỉ một người làm đồ án độc lập.
+- Hiểu rõ tư duy problem-first: không vội vàng áp dụng AI mà phải bóc tách quy trình thực tế để biết bước nào giải quyết bằng Rule/OCR, bước nào cần AI hỗ trợ (Augment), và luôn phải có con người kiểm tra (HITL) trước khi ban hành.
+- Học được cách phản biện và chấp nhận phản biện: sẵn sàng rút bài cá nhân khi thấy giải pháp No AI / Rule đã đủ, đồng thuận dồn sức cho bài toán có giá trị thực tế cao nhất của nhóm.
