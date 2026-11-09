@@ -59,7 +59,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 **Phần việc phụ trách:**
 
-- Người chính phụ trách CP5: phản biện các candidate ở bước hội tụ, phản biện Problem Statement v0 và mức can thiệp AI.
+- Người chính phụ trách CP5: phản biện các candidate ở bước hội tụ, phản biện Problem Statement v0.
 - Phụ trách chính vẽ quy trình hiện tại & tương lai (CP5), lập bảng Before/After.
 - Phụ trách hỗ trợ viết Problem Statement (Success Metric, Boundary, Fallback) và đánh giá 4 rủi ro đưa ra quyết định.
 
