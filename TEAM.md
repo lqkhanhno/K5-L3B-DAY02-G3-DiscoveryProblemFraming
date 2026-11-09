@@ -64,7 +64,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 - Phụ trách hỗ trợ viết Problem Statement (Success Metric, Boundary, Fallback) và đánh giá 4 rủi ro đưa ra quyết định.
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
-- CP5: Lập bảng quy trình hiện tại 7 bước (làm rõ bottleneck 30–60' ở bước 3–4); thiết kế quy trình tương lai 4 bước tinh gọn (Bước 1 Rule/OCR → Bước 2 AI đối chiếu → Bước 3 Tổ trưởng duyệt HITL → Bước 4 Giáo viên đọc & áp dụng); vẽ bảng Before/After.
+- CP5: Lập bảng quy trình hiện tại 7 bước; thiết kế quy trình tương lai 4 bước tinh gọn (Bước 1 Rule/OCR → Bước 2 AI đối chiếu → Bước 3 Tổ trưởng duyệt HITL → Bước 4 Giáo viên đọc & áp dụng); vẽ bảng Before/After.
 - CP5: Tham gia viết Problem Statement v0 và định hình thay đổi cho v1, thiết lập Boundary chặt chẽ cho AI.
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
