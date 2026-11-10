@@ -15,7 +15,7 @@
 | 1 | | | | |
 | 2 | Đoàn Đăng Khoa | 2A202603766 | Thành viên | ddkhoa2605 |
 | 3 | | | | |
-| 4 | | | | |
+| 4 | Lã Thái Minh | 2A202603756 | Thành viên | minh17023 |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
@@ -26,8 +26,8 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 | Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
 |---|---|---|---|
 | CP3 — Hội tụ nhóm | Đoàn Đăng Khoa | - | Cluster, cây OST, bảng chấm điểm |
-| CP4 — Kiểm chứng | | | Assumption map, snapshot hoặc survey |
-| CP4 — Research | | | Bảng research có link |
+| CP4 — Kiểm chứng | Lã Thái Minh | | Assumption map, snapshot hoặc survey |
+| CP4 — Research | | Lã Thái Minh | Bảng research có link |
 | CP5 — Quy trình trước/sau | | | Quy trình + bảng before/after |
 | CP5 — Problem Statement v0 | | | Problem Statement v0 |
 | CP6 — Mức can thiệp + Problem Statement v1 | | | Ma trận, AI Canvas, eval, Problem Statement v1 |
@@ -105,3 +105,28 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 - Nhận ra sự khác biệt giữa bài toán cá nhân và bài toán tổ chức: bài toán của nhóm có tác động lớn hơn nhiều vì giải quyết điểm nghẽn cho cả tổ chuyên môn thay vì chỉ một người làm đồ án độc lập.
 - Hiểu rõ tư duy problem-first: không vội vàng áp dụng AI mà phải bóc tách quy trình thực tế để biết bước nào giải quyết bằng Rule/OCR, bước nào cần AI hỗ trợ (Augment), và luôn phải có con người kiểm tra (HITL) trước khi ban hành.
 - Học được cách phản biện và chấp nhận phản biện: sẵn sàng rút bài cá nhân khi thấy giải pháp No AI / Rule đã đủ, đồng thuận dồn sức cho bài toán có giá trị thực tế cao nhất của nhóm.
+
+- ### Lã Thái Minh-2A202603756
+
+**Phần việc phụ trách:**
+
+- Phụ trách chính CP4 — Kiểm chứng: lập Assumption Map và thiết kế câu hỏi phỏng vấn/survey cho giáo viên, tổ trưởng chuyên môn.
+- Hỗ trợ CP4 — Research: tìm và tổng hợp các giải pháp/công cụ hiện có để đọc, so sánh văn bản và dẫn nguồn.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Xác định các giả định cần kiểm chứng về thời gian đọc/lọc văn bản, việc đối chiếu văn bản cũ và độ trễ khi chờ tổ chuyên môn thống nhất.
+- Soạn khung kiểm chứng đúng actor, bộ câu hỏi cho lần xử lý văn bản gần nhất và mẫu interview snapshot; ghi rõ chưa được coi là dữ liệu thực tế khi chưa phỏng vấn.
+- Tổng hợp research về Google Docs, Gemini Notebook và Adobe Acrobat Compare/AI Assistant; rút ra quy trình thử nghiệm có trích dẫn nguồn và bước giáo viên/tổ trưởng kiểm tra.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- `report/team/group_report.md`, Mục 3.1 — Assumption Map và Mục 3.2 — Kiểm chứng.
+- `report/team/group_report.md`, Mục 3.3 — Research giải pháp đã có và kết luận research sơ bộ.
+- Commit `f50cb87` — cập nhật nội dung CP4 trong báo cáo nhóm.
+
+**Điều mình học được từ phần nhóm:**
+
+- Không nên kết luận pain point hoặc đi thẳng vào xây AI khi chưa kiểm chứng với đúng người đã trực tiếp xử lý công việc.
+- Research công cụ chỉ là bằng chứng về khả năng sản phẩm; vẫn cần thử trên văn bản thật, kiểm tra trích dẫn và giữ bước con người duyệt trước khi áp dụng.
+
