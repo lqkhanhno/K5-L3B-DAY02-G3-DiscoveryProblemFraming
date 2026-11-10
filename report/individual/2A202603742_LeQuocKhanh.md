@@ -155,16 +155,22 @@ Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ ch
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
 Tôi thấy họ có nhiều ý tưởng lạ lại khác nhau hoàn toàn và cũng như những vấn đề tôi không nghĩ đến
+
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
 Tạm thời chưa bị mọi người đều chủ động nghĩ ra vấn đề
+
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 Tôi sửa từ dự án cho công ty thành dự án hiện tại cho AI phoniex để hợp lí với điều kiện ko ai quen biết và biết năng lực của nhau
+
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 Không vì mọi người trả lời khá thật
+
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 Vì dự án này nó hơi nhỏ chỉ dành cho những người làm dự án random như làm AI phoniex hoặc như hồi xưa tôi làm đồ án đều ghép nhóm random không biết năng lực của những người xung quanh nên phân công dựa trên thực nhận của họ nếu trùng năng lực thì gần như là ai chịu nói hơn thì người đó nhận hoặc bị đưa dự án khác
+
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 Tôi sẽ tăng những thứ mà AI có thể làm có thể làm thêm bài kiểm tra năng lực để chính xác hơn
+
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 Bắt đầu từ việc tôi sắp phải làm việc với một nhóm nhỏ không ai quen biết nhau nên mới nghĩ ra vấn đề là làm 1 con AI đánh giá năng lực của từng người và lựa chọn dự án thích hợp nhất dựa trên dự án đã có để chọn dự án thích hợp nhất cũng như phân việc cho mỗi người. Mục đích là lựa chọn dự án thích hợp nhất và giao đúng cho từng thành viên. Mức can thiệt AI là thay nhóm trưởng đưa ra quyết định chọn dự án cũng như phân công công việc
 ---
