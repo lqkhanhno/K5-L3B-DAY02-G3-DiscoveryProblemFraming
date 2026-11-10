@@ -5,7 +5,7 @@
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm: G1
+- Tên nhóm: G3
 - Thành viên: xem `TEAM.md`
 - Candidate problem được chọn (1 câu): Card #3 của Đoàn Đăng Khoa — giáo viên bộ môn cần xác định phần thay đổi trong văn bản Bộ/Sở liên quan đến môn, khối mình dạy để kịp cập nhật ma trận đề và kế hoạch bài dạy.
 - Quyết định cuối: Go / Not Yet / No-Go
