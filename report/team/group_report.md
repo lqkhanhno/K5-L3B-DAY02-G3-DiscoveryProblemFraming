@@ -5,9 +5,9 @@
 
 ## 1. Thông tin nhóm
 
--Tên nhóm:
+-Tên nhóm: G3
 Thành viên: xem TEAM.md
-Candidate problem được chọn (1 câu):
+Candidate problem được chọn (1 câu):Khi Bộ/Sở ban hành công văn, thông tư mới, tôi muốn biết nhanh điểm nào thay đổi ảnh hưởng đến môn và khối mình dạy, để kịp điều chỉnh ma trận đề và kế hoạch bài dạy.
 Quyết định cuối: Go / Not Yet / No-Go
 ---
 
