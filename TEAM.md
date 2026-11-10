@@ -106,7 +106,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 - Hiểu rõ tư duy problem-first: không vội vàng áp dụng AI mà phải bóc tách quy trình thực tế để biết bước nào giải quyết bằng Rule/OCR, bước nào cần AI hỗ trợ (Augment), và luôn phải có con người kiểm tra (HITL) trước khi ban hành.
 - Học được cách phản biện và chấp nhận phản biện: sẵn sàng rút bài cá nhân khi thấy giải pháp No AI / Rule đã đủ, đồng thuận dồn sức cho bài toán có giá trị thực tế cao nhất của nhóm.
 
-- ### Lã Thái Minh-2A202603756
+### Lã Thái Minh-2A202603756
 
 **Phần việc phụ trách:**
 
