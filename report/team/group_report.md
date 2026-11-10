@@ -5,11 +5,10 @@
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm: G1
-- Thành viên: xem `TEAM.md`
-- Candidate problem được chọn (1 câu): Card #3 của Đoàn Đăng Khoa — giáo viên bộ môn cần xác định phần thay đổi trong văn bản Bộ/Sở liên quan đến môn, khối mình dạy để kịp cập nhật ma trận đề và kế hoạch bài dạy.
-- Quyết định cuối: Go / Not Yet / No-Go
-Go
+-Tên nhóm:
+Thành viên: xem TEAM.md
+Candidate problem được chọn (1 câu):
+Quyết định cuối: Go / Not Yet / No-Go
 ---
 
 ## 2. Hội tụ nhóm (CP3)
@@ -99,11 +98,11 @@ Giả định nhóm kiểm chứng trong buổi này:
 | Có phải tạo thêm bộ phận để kiểm tra tính đúng không? | Không đề xuất lập bộ phận mới. Giáo viên và tổ trưởng chuyên môn đang là người thống nhất cách hiểu; nếu có AI, họ kiểm điều/khoản gốc và duyệt trước khi phổ biến. | Hỏi tổ trưởng hiện nay ai kiểm và duyệt cách áp dụng văn bản, mất bao lâu, có phải chờ họp tổ không. |
 | Đã có AI sẵn thì sao phải tạo thêm? | Bài lab chưa đặt mục tiêu xây AI mới. Cần thử công cụ sẵn có và cách làm thủ công trước; giá trị cần kiểm là lọc đúng môn/khối, chỉ đúng điều khoản, phát hiện thay đổi so với bản cũ và rút ngắn thời gian đến khi giáo viên biết việc cần làm. | Dùng cùng một cặp văn bản mới/cũ để so bản tóm tắt thủ công với công cụ sẵn có; đếm điều khoản đúng, bị bỏ sót, dẫn nguồn sai và thời gian giáo viên phải sửa. |
 
-**Kiểm chứng với đúng actor:** phỏng vấn 2–3 giáo viên/tổ trưởng từng trực tiếp xử lý văn bản mới, hoặc survey 5–10 người có trải nghiệm đó. Hỏi về **lần gần nhất**: nhận văn bản qua đâu, tìm phần liên quan bằng cách nào, đối chiếu bản cũ ra sao, hỏi lại ai, mất bao lâu và cuối cùng đã sửa tài liệu gì. Ghi cả trường hợp không gặp pain hoặc chỉ cần mẫu tóm tắt chung. Chưa điền số người hay kết quả khi chưa có phản hồi thực tế.
+**Kiểm chứng với đúng actor:** phỏng vấn 2–3 giáo viên/tổ trưởng từng trực tiếp xử lý văn bản mới, hoặc survey 5–10 người có trải nghiệm đó. Hỏi về lần gần nhất: nhận văn bản qua đâu, tìm phần liên quan bằng cách nào, đối chiếu bản cũ ra sao, hỏi lại ai, mất bao lâu và cuối cùng đã sửa tài liệu gì. Ghi cả trường hợp không gặp pain hoặc chỉ cần mẫu tóm tắt chung. Chưa điền số người hay kết quả khi chưa có phản hồi thực tế.
 
-Cách đã dùng với giáo viên/tổ trưởng: **chưa có dữ liệu để xác nhận**. Khi có khảo sát hoặc phỏng vấn, ghi ngày, cách hỏi, số phản hồi hợp lệ và link biểu mẫu/kết quả được phép chia sẻ tại đây.
+Cách đã dùng với giáo viên/tổ trưởng: chưa có dữ liệu để xác nhận. Khi có khảo sát hoặc phỏng vấn, ghi ngày, cách hỏi, số phản hồi hợp lệ và link biểu mẫu/kết quả được phép chia sẻ tại đây.
 
-Interview snapshot (mỗi buổi phỏng vấn một bảng, hoặc đặt file trong `report/assets/cp4-interview-snapshot-N.md`). **Chưa thực hiện phỏng vấn người có trải nghiệm trực tiếp, nên chưa có snapshot để ghi.** Sau buổi phỏng vấn thật, thay bảng mẫu dưới đây bằng câu trả lời nguyên văn và tình huống cụ thể:
+Interview snapshot (mỗi buổi phỏng vấn một bảng, hoặc đặt file trong `report/assets/cp4-interview-snapshot-N.md`). Chưa thực hiện phỏng vấn người có trải nghiệm trực tiếp, nên chưa có snapshot để ghi. Sau buổi phỏng vấn thật, thay bảng mẫu dưới đây bằng câu trả lời nguyên văn và tình huống cụ thể:
 
 | Trường | Nội dung |
 |---|---|
