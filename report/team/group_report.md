@@ -97,18 +97,20 @@ Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 
 ### 3.1. Assumption Map
 
-| # | Giả định | Loại (Value / Usability / Feasibility / Viability) | Quan trọng (1-5) | Đã có bằng chứng (1-5) | Kiểm chứng trước? |
+| # | Giả định | Loại (Value / Usability / Feasibility / Viability) | Quan trọng (1–5) | Đã có bằng chứng (1–5) | Kiểm chứng trước? |
 |---:|---|---|---:|---:|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
-
-*Điền 4-6 giả định; xóa dòng thừa.*
+| 1 | Giáo viên bộ môn thường gặp khó khăn khi phải tìm phần thay đổi liên quan đến môn/khối mình dạy trong văn bản mới. | Value | 5 | 1 | Chưa |
+| 2 | Việc đọc, lọc và đối chiếu văn bản mới với văn bản cũ làm giáo viên mất khoảng 30–60 phút mỗi văn bản và có thể phải chờ tổ chuyên môn thống nhất thêm. | Value | 5 | 1 | Chưa |
+| 3 | Bản tóm tắt theo môn/khối, có trích dẫn điều/khoản/trang gốc, sẽ giúp giáo viên biết việc cần làm nhanh hơn mà vẫn kiểm tra được. | Usability | 5 | 1 | Chưa |
+| 4 | Công cụ AI sẵn có có thể hỗ trợ trích xuất điểm liên quan và so sánh hai văn bản với độ chính xác đủ để tạo bản nháp, nhưng không thay thế bước duyệt của con người. | Feasibility | 5 | 2 | Chưa |
+| 5 | Giáo viên và tổ trưởng có thể đưa bước kiểm tra nguồn và duyệt bản nháp vào quy trình hiện tại mà không cần lập thêm bộ phận mới. | Viability | 4 | 1 | Chưa |
+| 6 | Báo nhầm hoặc thêm nội dung không có gây rủi ro lớn hơn bỏ sót; bắt buộc trích dẫn nguồn và HITL sẽ giảm rủi ro trước khi phổ biến. | Feasibility | 4 | 2 | Chưa |
 
 Giả định nhóm kiểm chứng trong buổi này:
+
+- Ưu tiên kiểm chứng giả định 1 và 2 bằng phỏng vấn 2–3 giáo viên/tổ trưởng từng xử lý văn bản mới, tập trung vào lần gần nhất và thời gian thực tế.
+- Kiểm chứng giả định 3 và 4 bằng cách dùng cùng một cặp văn bản mới/cũ, so sánh bản tóm tắt thủ công với công cụ AI sẵn có; ghi nhận độ đúng, phần bỏ sót, trích dẫn sai và thời gian sửa.
+- Kiểm chứng giả định 5 và 6 bằng cách hỏi ai đang duyệt nội dung, cách xử lý khi có điểm chưa rõ, và thử một bản nháp có trích dẫn để giáo viên/tổ trưởng đánh dấu lỗi trước khi phổ biến.
 
 ### 3.2. Kiểm chứng
 
