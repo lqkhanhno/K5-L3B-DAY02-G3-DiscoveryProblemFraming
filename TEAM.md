@@ -26,13 +26,13 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 | Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
 |---|---|---|---|
-| CP3 — Hội tụ nhóm | Đoàn Đăng Khoa | - | Cluster, cây OST, bảng chấm điểm |
+| CP3 — Hội tụ nhóm | Đoàn Đăng Khoa |Lê Quốc Khánh| Cluster, cây OST, bảng chấm điểm |
 | CP4 — Kiểm chứng | Lã Thái Minh | - | Assumption map, snapshot hoặc survey |
 | CP4 — Research | Lã Thái Minh | - | Bảng research có link |
-| CP5 — Quy trình trước/sau | | | Quy trình + bảng before/after |
-| CP5 — Problem Statement v0 | | | Problem Statement v0 |
-| CP6 — Mức can thiệp + Problem Statement v1 | | | Ma trận, AI Canvas, eval, Problem Statement v1 |
-| CP6 — Quyết định | | | 4 rủi ro + Go/Not Yet/No-Go |
+| CP5 — Quy trình trước/sau |Nguyễn Quang Huy|Đoàn Đăng Khoa| Quy trình + bảng before/after |
+| CP5 — Problem Statement v0 |Nguyễn Quang Huy| | Problem Statement v0 |
+| CP6 — Mức can thiệp + Problem Statement v1 |Lê Quốc Khánh|Đoàn Đăng Khoa| Ma trận, AI Canvas, eval, Problem Statement v1 |
+| CP6 — Quyết định |Lê Quốc Khánh| | 4 rủi ro + Go/Not Yet/No-Go |
 
 ## Cá nhân
 
