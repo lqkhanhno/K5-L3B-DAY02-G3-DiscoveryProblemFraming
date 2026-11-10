@@ -4,18 +4,19 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Candidate problem nhóm chọn (1 câu):
-- Quyết định cuối (Go / Not Yet / No-Go):
+- Tên nhóm: G3
+- Candidate problem nhóm chọn (1 câu): giáo viên bộ môn cần xác định phần thay đổi trong văn bản Bộ/Sở liên quan đến môn, khối mình dạy để kịp cập nhật ma trận đề và kế hoạch bài dạy.
+- Quyết định cuối: Go / Not Yet / No-Go
+Go
 
 ## Thành viên
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 |Lê Quốc Khánh|2A202603742| | |
-| 2 | Đoàn Đăng Khoa | 2A202603766 | Thành viên | ddkhoa2605 |
-| 3 | | | | |
-| 4 | Lã Thái Minh | 2A202603756 | Thành viên | minh17023 |
+| 1 |Lê Quốc Khánh|2A202603742|Trưởng nhóm, viết problem statement|lqkhanhno |
+| 2 | Đoàn Đăng Khoa | 2A202603766 |Người phản biện chính, ghi chép | ddkhoa2605 |
+| 3 | Nguyễn Quang Huy|2A202603768|vẽ quy trình, điều phối thời gian|nguyenquanghuy091204|
+| 4 | Lã Thái Minh | 2A202603756 |phụ trách kiểm chứng, phụ trách research| minh17023 |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
