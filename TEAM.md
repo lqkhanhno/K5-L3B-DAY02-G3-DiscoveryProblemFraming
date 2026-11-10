@@ -13,7 +13,7 @@
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
 | 1 | | | | |
-| 2 | | | | |
+| 2 | Đoàn Đăng Khoa | 2A202603766 | Thành viên | ddkhoa2605 |
 | 3 | | | | |
 | 4 | | | | |
 
@@ -25,7 +25,7 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 | Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
 |---|---|---|---|
-| CP3 — Hội tụ nhóm | | | Cluster, cây OST, bảng chấm điểm |
+| CP3 — Hội tụ nhóm | Đoàn Đăng Khoa | | Cluster, cây OST, bảng chấm điểm |
 | CP4 — Kiểm chứng | | | Assumption map, snapshot hoặc survey |
 | CP4 — Research | | | Bảng research có link |
 | CP5 — Quy trình trước/sau | | | Quy trình + bảng before/after |
