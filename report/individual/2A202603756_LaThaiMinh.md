@@ -188,8 +188,6 @@ Quy trình nháp hiện tại:
 
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
-> **Bản nháp cần tự viết lại trước khi nộp:** Các đoạn 6.1–6.6 dưới đây đã được AI hỗ trợ soạn và có nội dung mô phỏng. Chỉ giữ lại những ý đúng với trải nghiệm của mình, tự viết bằng lời của mình và thay các dự định bằng việc đã xảy ra; không dùng bản nháp này làm reflection cuối.
-
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
 
 Khi xem các card của nhóm, tôi thấy mỗi người bị kẹt ở một kiểu thông tin khác nhau: Khánh cần biết năng lực thực của thành viên, Huy cần nối log thực nghiệm với thay đổi trong code, còn tôi phải phân biệt khoản chi chung và riêng. Card #3 của Khoa khó ở chỗ khác: giáo viên nhận một văn bản dài nhưng chỉ vài điều liên quan đến môn và khối mình dạy; họ còn phải biết điều đó khác gì so với quy định cũ. Tôi hiểu vì sao nhóm chọn bài này: nếu mỗi giáo viên tự đọc và tự diễn giải, một lỗi hiểu sai có thể đi vào ma trận đề hoặc kế hoạch bài dạy. Tốc độ đọc quan trọng, nhưng tìm đúng điều khoản và thống nhất cách hiểu còn quan trọng hơn.
