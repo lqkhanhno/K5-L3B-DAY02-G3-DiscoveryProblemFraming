@@ -12,7 +12,7 @@
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | | | | |
+| 1 |Lê Quốc Khánh|2A202603742| | |
 | 2 | Đoàn Đăng Khoa | 2A202603766 | Thành viên | ddkhoa2605 |
 | 3 | | | | |
 | 4 | Lã Thái Minh | 2A202603756 | Thành viên | minh17023 |
@@ -37,23 +37,32 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
 
-### HoVaTen-MSSV
+### LeQuocKhanh-2A202603742
 
 **Phần việc phụ trách:**
-
--
-
+- Điều phối chung nhóm, theo dõi tiến độ các checkpoint và đồng bộ nội dung trên repo chung.
+- Đưa ra candidate problem (hàng #4 trong bảng pitch) và tham gia phản biện các candidate của thành viên khác.
+- Hỗ trợ hoàn thiện Problem Statement v0 → v1, làm rõ Actor
+- Phụ trách chính phần CP6: ma trận độ mơ hồ × độ phức tạp, so sánh 4 mức can thiệp, AI Canvas, tiêu chí đánh giá đầu ra AI, 4 rủi ro và quyết định Go.
+- Tham gia phản biện và chốt mức Workflow
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
-
--
+- Đưa candidate #4 vào bảng pitch (mục 2.1) và nhận câu hỏi phản biện từ Khoa về việc “có thực sự cần AI không khi leader phải tự nắm tình hình nhóm”.
+- Đặt câu hỏi phản biện ngược lại với candidate của cả nhóm loại bỏ candidate problem của cả nhóm để chọn 1 candidate chính 
+- Viết / chỉnh sửa phần 6 (Mức can thiệp AI) và phần 7 (Problem Statement v1 + tiêu chí đánh giá): làm rõ Prediction – Judgment – Action – Outcome, nhấn mạnh bắt buộc trích dẫn nguồn và bước HITL của Tổ trưởng.
+- Xây dựng bảng 4 rủi ro (Value / Usability / Feasibility / Viability) và đề xuất ngưỡng dừng pilot
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
-
--
+- `group_report.md` mục 2.1 (hàng #4 và các câu hỏi phản biện liên quan).
+- `group_report.md` mục 6 (toàn bộ ma trận, so sánh 4 mức, AI Canvas, 2 câu hỏi Google PAIR).
+- `group_report.md` mục 7 (Problem Statement v1 + bảng thay đổi v0 → v1 + 5 tiêu chí đánh giá).
+- `group_report.md` mục 8 (4 rủi ro + quyết định Go + ngưỡng dừng).
+- Commit trên nhánh/repo nhóm https://github.com/lqkhanhno/K5-L3B-DAY02-G3-DiscoveryProblemFraming/tree/lequockhanh.
 
 **Điều mình học được từ phần nhóm:**
-
--
+- Pain thật và đo được quan trọng hơn ý tưởng “nghe hay”. Candidate nào không có bằng chứng thời gian/chi phí hoặc không rõ actor thì dễ bị loại khi chấm điểm.
+- Mức can thiệp AI phải khớp với rủi ro chuyên môn và pháp lý. Với văn bản quy phạm, Workflow + HITL an toàn và thực tế hơn Agent.
+- Phản biện tốt giúp nhóm tránh giải pháp “đội lốt opportunity”. Nhiều ý ban đầu nghe như nhu cầu nhưng thực chất đã là solution.
+- Khi làm việc nhóm, việc ghi rõ bằng chứng (commit, mục trong report) giúp tránh tranh cãi và dễ đối chiếu khi giáo viên chấm.
 
 ### DoanDangKhoa-2A202603766
 
